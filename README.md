@@ -1,6 +1,6 @@
 # Hey, I'm Sarthak Kshirsagar 👋
 
-### Blockchain Developer | Stellar & Soroban | Solidity | Rust
+### Blockchain Developer | Ethereum | Smart Contract | Stellar & Soroban | Rust | Solana 
 
 I build blockchain applications focused on real-world problems, smart contract security, and decentralized infrastructure.
 
